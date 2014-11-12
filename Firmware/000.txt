@@ -1,0 +1,6 @@
+3
+; 0: Level triggered
+; 1: Level triggered (sustained)
+; 2: Edge triggered
+; 3: Edge triggered (re-triggerable)
+; 4: Edge triggered (stop on release)
